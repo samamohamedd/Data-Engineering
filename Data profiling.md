@@ -1,0 +1,1 @@
+getting the structure, content, relationships from source data to know the anomalies and issues  

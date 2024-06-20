@@ -1,0 +1,44 @@
+- The-Data-Warehouse-Toolkit
+	- chapters: 
+		- [ ] chapter1
+			- 
+		- [ ] chapter2
+		- [ ] chapter3
+		- [ ] chapter4
+		- [ ] chapter5
+		- [ ] chapter6
+		- [ ] chapter7
+		- [ ] chapter8
+		- [ ] chapter9
+		- [ ] chapter10 -21
+---
+- Fundamentals of data engineering
+	- chapters: 
+		- [ ] chapter1
+		- [ ] chapter2
+		- [ ] chapter3
+		- [ ] chapter4
+		- [ ] chapter5
+		- [ ] chapter6
+		- [ ] chapter7
+		- [ ] chapter8
+		- [ ] chapter9
+		- [ ] chapter10 
+		- [ ] chapter11
+		- [ ] app-A
+		- [ ] app-b
+---
+- designing data-intensive applications
+	- chapters: 
+		- [ ] chapter1
+		- [ ] chapter2
+		- [ ] chapter3
+		- [ ] chapter4
+		- [ ] chapter5
+		- [ ] chapter6
+		- [ ] chapter7
+		- [ ] chapter8
+		- [ ] chapter9
+		- [ ] chapter10 
+		- [ ] chapter11
+		- [ ] chapter12

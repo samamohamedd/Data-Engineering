@@ -1,0 +1,6 @@
+- **Capacity Planning** : choosing the best hardware and software for performance
+- Indexing
+- **Partitioning** : dividing databases into more smaller and independent ones to improve performance 
+- **Normalization
+- **Monitoring Systems** : they take snapshots of the performance indicator of a database
+- **Maintenance routines** : that is used when a error happen

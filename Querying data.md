@@ -1,0 +1,7 @@
+- counting is important to begin with
+- aggregation functions (sum, avg, ..) are also useful
+- Identifying extreme values(max, min)
+- slicing dataset by conditioning (where)
+- sorting data (order by)
+- filtering patterns (like operator)
+- grouping data (group by) 
