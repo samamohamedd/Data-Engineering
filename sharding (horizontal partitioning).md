@@ -1,0 +1,1 @@
+a technique spreads the write load across multiple machines (database servers).

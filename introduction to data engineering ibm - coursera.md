@@ -1,0 +1,14 @@
+
+- [x] module 1
+- [x] module 2
+	- [[OLAP vs. OLTP]]
+	- [[Data Mining]]
+- [x] module 3
+	- [[tools to gather data]]
+	- [[Data Wrangling (munging)]]
+	- [[Database Optimization]]
+	- [[Performance Matrix in pipelines]]
+	- [[Querying data]]
+	- [[Data profiling]]
+	- [[Data Governance and Compliance]]
+- [x] module 4
